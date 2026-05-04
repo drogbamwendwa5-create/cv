@@ -1,0 +1,6 @@
+autohub: assets/previews/autohub.png
+ecommerce: assets/previews/ecommerce.png
+hotel: assets/previews/hotel.png
+netflix: assets/previews/netflix.png
+youtube: assets/previews/youtube.png
+blog: assets/previews/blog.png
